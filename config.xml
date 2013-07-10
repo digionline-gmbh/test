@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "de.digionline.testcourselet"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Test-Courselet: Rechtschreibung</name>
+
+    <description>
+        Nur ein Test
+    </description>
+
+    <author href="https://www.digionline.de" email="thomas@digionline.de">
+        DigiOnline GmbH
+    </author>
+
+    <preference name="fullscreen" value="true" />
+
+</widget>
