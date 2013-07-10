@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page id="p8">
+  <contents>
+    <block id="p8_b1" type="meta" title="s-Laute: dass oder das?" link_next_page="after_attempt" overview="score score_max" attempts="unlimited" feedback="1" />
+    <block id="p8_b2" type="heading1">
+      <element id="p8_e1" type="line">s-Laute: dass oder das?</element>
+    </block>
+    <block id="p8_b3" type="heading2">
+      <element id="p8_e2" type="line">Bei Zweifel überprüfen</element>
+    </block>
+    <block id="p8_b5" type="image" image_idref="r74" align="left" />
+    <block id="p8_b4" type="paragraph">
+      <element id="p8_e3" type="text">Mit dem &lt;b&gt;Bindewort&lt;/b&gt; (der &lt;b&gt;Konjunktion&lt;/b&gt;) 'dass' werden Nebensätze eingeleitet. Im Gegensatz zum &lt;b&gt;Relativpronomen&lt;/b&gt; 'das' und dem &lt;b&gt;Artikel&lt;/b&gt; 'das' wird es mit 'ss' geschrieben. Im Zweifelsfall kann überprüft werden, ob "dieses" , "jenes" oder "welches" eingesetzt werden kann. Ist das der Fall, wird immer 'das' geschrieben.
+
+&lt;b&gt;Beispiele:&lt;/b&gt;
+Ich hoffe, &lt;b&gt;dass&lt;/b&gt; der Zug pünktlich ist.
+Der Zug kommt pünktlich, &lt;b&gt;das&lt;/b&gt;  verspricht die Bahnauskunft.</element>
+    </block>
+    <block id="p8_b6" type="heading2">
+      <element id="p8_e5" type="line">Übung zu dass oder das</element>
+    </block>
+    <block id="p8_b7" type="paragraph" score_max="9">
+      <element id="p8_e7" type="icon" image_idref="r11" />
+      <element id="p8_e8" type="text">&lt;b&gt;Aufgabe:&lt;/b&gt; Füge jeweils das oder dass in die Satzlücken ein.</element>
+      <element id="p8_e9" type="break" />
+      <element id="p8_e41" type="break" />
+      <element id="p8_e11" type="input" is_exercise="1" default_score="1">Das</element>
+      <element id="p8_e10" type="text">Erdmännchen,</element>
+      <element id="p8_e12" type="input" is_exercise="1" default_score="1">das</element>
+      <element id="p8_e13" type="text">aus der Familie der Mangusten stammt, ist eine Säugetierart. Sein hellbraunes Fell,</element>
+      <element id="p8_e14" type="input" is_exercise="1" default_score="1">das</element>
+      <element id="p8_e15" type="text">von unauffälligen Querstreifen durchsetzt ist, liegt eng am Körper an. Die Savanne ist der bevorzugte Lebensraum des kleinen Raubtiers,</element>
+      <element id="p8_e16" type="input" is_exercise="1" default_score="1">das</element>
+      <element id="p8_e17" type="text">gesellig in Kolonien mit bis zu 30 Tieren lebt. Erdmännchen richten sich oft auf ihren hinteren Gliedmaßen auf, um ihre Umgebung auszuspähen.</element>
+      <element id="p8_e18" type="input" is_exercise="1" default_score="1">Das</element>
+      <element id="p8_e19" type="text">„Männchenmachen“ ist vermutlich auch der Grund dafür,</element>
+      <element id="p8_e20" type="input" is_exercise="1" default_score="1">dass</element>
+      <element id="p8_e21" type="input" is_exercise="1" default_score="1">das</element>
+      <element id="p8_e22" type="text">Tier so heißt. Sobald ein Feind erspäht wird, geben die Wache haltenden Tiere eine Art Bellen von sich,</element>
+      <element id="p8_e23" type="input" is_exercise="1" default_score="1">das</element>
+      <element id="p8_e24" type="text">für alle Tiere der Kolonie</element>
+      <element id="p8_e25" type="input" is_exercise="1" default_score="1">das</element>
+      <element id="p8_e26" type="text">Zeichen ist, schnellstmöglich Zuflucht im Bau zu suchen.</element>
+    </block>
+    <block id="p8_b8" type="feedback">
+      <element id="p8_e46" type="feedback_score">0</element>
+      <element id="p8_e47" type="text">Probiers gleich noch einmal!</element>
+      <element id="p8_e48" type="feedback_score">3</element>
+      <element id="p8_e49" type="text">Weiter so.</element>
+      <element id="p8_e50" type="feedback_score">5</element>
+      <element id="p8_e51" type="text">Das stimmt so noch nicht</element>
+      <element id="p8_e52" type="feedback_score">7</element>
+      <element id="p8_e53" type="text">Das ist schon ganz gut.</element>
+      <element id="p8_e54" type="feedback_score">9</element>
+      <element id="p8_e55" type="text">Ausgezeichnet! Alles richtig gelöst.</element>
+    </block>
+  </contents>
+</page>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page id="p10">
+  <contents>
+    <block id="p10_b1" type="meta" title="Wortbildung" link_next_page="after_attempt" overview="score score_max" attempts="unlimited" feedback="1" />
+    <block id="p10_b7" type="heading1">
+      <element id="p10_e6" type="line">Wortbildung mit Konsonanten</element>
+    </block>
+    <block id="p10_b3" type="heading2">
+      <element id="p10_e2" type="line">Die Kombination macht das Wort</element>
+    </block>
+    <block id="p10_b5" type="image" image_idref="r14" align="left" />
+    <block id="p10_b6" type="paragraph">
+      <element id="p10_e5" type="text">Sprache besteht aus Lauten. Man unterscheidet hierbei kurze oder lang gesprochene  &lt;b&gt;Vokale/Selbstlaute &lt;/b&gt; wie a, e, i, o, u, &lt;b&gt;Umlaute &lt;/b&gt; wie  ä, ö, ü  und  &lt;b&gt;Diphthonge/Zwielaute &lt;/b&gt; wie  au, äu, ai, ei. Alle anderen Laute sind  &lt;b&gt;Konsonanten/Mitlaute &lt;/b&gt;, beispielsweise b, g, d, n, p, s, f etc. Die Bildung von Wörtern erfolgt durch die Kombination von Vokalen  (Diphtongen, Umlauten) und Konsonanten.</element>
+    </block>
+    <block id="p10_b8" type="heading2">
+      <element id="p10_e7" type="line">Übung zur Wortbildung</element>
+    </block>
+    <block id="p10_b9" type="paragraph" score_max="18">
+      <element id="p10_e9" type="icon" image_idref="r13" />
+      <element id="p10_e10" type="text">&lt;b&gt;Aufgabe: &lt;/b&gt;Entscheide, welche Kombination jeweils zutrifft.</element>
+      <element id="p10_e31" type="break" />
+      <element id="p10_e32" type="break" />
+      <element id="p10_e33" type="text">&lt;b&gt;Affe&lt;/b&gt;</element>
+      <element id="p10_e34" type="checkbox" feedback_wrong="Das ist leider falsch." is_exercise="1" default_score="1">0</element>
+      <element id="p10_e35" type="text">Vokal/Diphtong/Vokal</element>
+      <element id="p10_e36" type="checkbox" feedback_right="Stimmt genau!" is_exercise="1" default_score="1">1</element>
+      <element id="p10_e37" type="text">Vokal/Doppelkonsonant/Vokal</element>
+      <element id="p10_e38" type="checkbox" feedback_wrong="Das ist leider falsch." is_exercise="1" default_score="1">0</element>
+      <element id="p10_e39" type="text">Konsonant/Doppelvokal/Konsonant</element>
+      <element id="p10_e40" type="break" />
+      <element id="p10_e41" type="break" />
+      <element id="p10_e42" type="text">&lt;b&gt;Maus&lt;/b&gt;</element>
+      <element id="p10_e43" type="checkbox" feedback_wrong="Das ist leider falsch." is_exercise="1" default_score="1">0</element>
+      <element id="p10_e44" type="text">Vokal/Diphtong/Vokal</element>
+      <element id="p10_e45" type="checkbox" feedback_right="Stimmt genau!" is_exercise="1" default_score="1">1</element>
+      <element id="p10_e46" type="text">Konsonant/Diphtong/Konsonant</element>
+      <element id="p10_e47" type="checkbox" feedback_wrong="Das ist leider falsch." is_exercise="1" default_score="1">0</element>
+      <element id="p10_e48" type="text">Konsonant/Doppelvokal/Konsonant</element>
+      <element id="p10_e49" type="break" />
+      <element id="p10_e50" type="break" />
+      <element id="p10_e51" type="text">&lt;b&gt;Hai&lt;/b&gt;</element>
+      <element id="p10_e52" type="checkbox" feedback_wrong="Das ist leider falsch." is_exercise="1" default_score="1">0</element>
+      <element id="p10_e53" type="text">Vokal/Konsonant/Konsonant</element>
+      <element id="p10_e54" type="checkbox" feedback_wrong="Das ist leider falsch." is_exercise="1" default_score="1">0</element>
+      <element id="p10_e55" type="text">Konsonant/Vokal/Konsonant</element>
+      <element id="p10_e56" type="checkbox" feedback_right="Stimmt genau!" is_exercise="1" default_score="1">1</element>
+      <element id="p10_e57" type="text">Konsonant/Diphtong</element>
+    </block>
+  </contents>
+</page>

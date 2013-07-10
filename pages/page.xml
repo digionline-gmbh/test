@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page id="p1">
+  <contents>
+    <block id="p1_b1" type="meta" title="Übersicht" link_next_page="never" overview="hidden" attempts="unlimited" feedback="1" />
+    <block id="p1_b2" type="heading1">
+      <element id="p1_e1" type="line">Rechtschreibung: Konsonanten</element>
+    </block>
+    <block id="p1_b3" type="heading2">
+      <element id="p1_e2" type="line">Von langen und kurzgesprochenen Lauten</element>
+    </block>
+    <block id="p1_b4" type="image" image_idref="r73" align="left" />
+    <block id="p1_b5" type="paragraph">
+      <element id="p1_e4" type="text">Der Kurs ist als Rechtschreibtraining rund um das Thema Konsonanten konzipiert und bietet die Möglichkeit, Gelerntes zu vertiefen oder zu wiederholen. Es wird vorausgesetzt, dass entsprechende grammatikalische Grundlagen dazu bereits vorhanden sind.
+
+Jede Aufgabe  kann unbegrenzt wiederholt werden. Richtig gelöste Aufgaben sind mit einem Häkchen</element>
+      <element id="p1_e5" type="icon" image_idref="r2" alt="Icon &#34;richtig&#34;" />
+      <element id="p1_e6" type="text">gekennzeichnet und hinter falschen Lösungen erscheint ein Kreuz</element>
+      <element id="p1_e7" type="icon" image_idref="r3" alt="Icon &#34;falsch&#34;" />
+      <element id="p1_e8" type="text">. Über  dieses Zeichen</element>
+      <element id="p1_e9" type="icon" image_idref="r4" alt="Icon &#34;Feedback&#34;" />
+      <element id="p1_e10" type="text">hinter einer Lösung erhält man ein zusätzliches Feedback.</element>
+    </block>
+    <block id="p1_b7" type="heading2">
+      <element id="p1_e11" type="line">Inhaltsverzeichnis</element>
+    </block>
+    <block id="p1_b6" type="overview" />
+  </contents>
+</page>

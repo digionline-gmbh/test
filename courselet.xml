@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<courselet>
+  <title>Rechtschreibung: Konsonanten</title>
+  <pages>
+    <page id="p1" title="Übersicht" href="pages/page.xml" />
+    <page id="p10" title="Wortbildung" href="pages/page9.xml" />
+    <page id="p2" title="Konsonantenhäufung" href="pages/page1.xml" />
+    <page id="p4" title="Doppelkonsonanten" href="pages/page3.xml" />
+    <page id="p6" title="Schärfung: ck und tz" href="pages/page5.xml" />
+    <page id="p7" title="s-Laute: s, ß oder ss" href="pages/page6.xml" />
+    <page id="p8" title="s-Laute: dass oder das?" href="pages/page7.xml" />
+  </pages>
+  <resources>
+    <resource id="r2" href="resources/i_right.gif" />
+    <resource id="r3" href="resources/i_wrong.gif" />
+    <resource id="r4" href="resources/i_feedback1.gif" />
+    <resource id="r6" href="resources/hand_grau.gif" />
+    <resource id="r7" href="resources/hand_grau1.gif" />
+    <resource id="r9" href="resources/hand_grau3.gif" />
+    <resource id="r10" href="resources/hand_grau4.gif" />
+    <resource id="r11" href="resources/hand_grau5.gif" />
+    <resource id="r13" href="resources/hand_grau7.gif" />
+    <resource id="r14" href="resources/hai.jpg" />
+    <resource id="r15" href="resources/giftschlange.jpg" />
+    <resource id="r16" href="resources/robbe.jpg" />
+    <resource id="r17" href="resources/schnecke.jpg" />
+    <resource id="r72" href="resources/pferd2.jpg" />
+    <resource id="r73" href="resources/start.jpg" />
+    <resource id="r74" href="resources/erdmaennchen.jpg" />
+  </resources>
+</courselet>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page id="p2">
+  <contents>
+    <block id="p2_b1" type="meta" title="Konsonantenhäufung" link_next_page="after_attempt" overview="score score_max" attempts="unlimited" feedback="1" />
+    <block id="p2_b2" type="heading1">
+      <element id="p2_e1" type="line">Konsonantenhäufung</element>
+    </block>
+    <block id="p2_b3" type="heading2">
+      <element id="p2_e2" type="line">Aufeinanderfolge mehrerer Mitlaute</element>
+    </block>
+    <block id="p2_b5" type="image" image_idref="r15" align="left" />
+    <block id="p2_b4" type="paragraph">
+      <element id="p2_e3" type="text">Folgen in einem Wort mehrere Konsonanten aufeinander, spricht man von einer &lt;i&gt;Konsonantenhäufung&lt;/i&gt;.
+
+&lt;b&gt;Beispiele:&lt;/b&gt;
+&lt;b&gt;Spr&lt;/b&gt;ung - beginnt mit drei Konsonanten
+Fi&lt;b&gt;sch&lt;/b&gt; - endet mit drei Konsonanten</element>
+    </block>
+    <block id="p2_b7" type="heading2">
+      <element id="p2_e6" type="line">Übung zur Konsonantenhäufung</element>
+    </block>
+    <block id="p2_b8" type="paragraph" score_max="17">
+      <element id="p2_e8" type="icon" image_idref="r6" />
+      <element id="p2_e9" type="text">&lt;b&gt;Aufgabe:&lt;/b&gt; Füge die fehlenden Konsonanten ein.</element>
+      <element id="p2_e16" type="break" />
+      <element id="p2_e11" type="break" />
+      <element id="p2_e10" type="text">Schla</element>
+      <element id="p2_e12" type="input" is_exercise="1" default_score="1">ng</element>
+      <element id="p2_e13" type="text">en</element>
+      <element id="p2_e17" type="text">sind</element>
+      <element id="p2_e19" type="text">Re</element>
+      <element id="p2_e20" type="input" is_exercise="1" default_score="1">pt</element>
+      <element id="p2_e21" type="text">ilien ohne</element>
+      <element id="p2_e54" type="text">Füße, die sich lau</element>
+      <element id="p2_e22" type="input" is_exercise="1" default_score="1">tl</element>
+      <element id="p2_e23" type="text">os über den</element>
+      <element id="p2_e25" type="text">Boden bewegen.</element>
+      <element id="p2_e88" type="text">Es gibt e</element>
+      <element id="p2_e26" type="input" is_exercise="1" default_score="1">tw</element>
+      <element id="p2_e27" type="text">a 2500 A</element>
+      <element id="p2_e28" type="input" is_exercise="1" default_score="1">rt</element>
+      <element id="p2_e29" type="text">en.</element>
+      <element id="p2_e91" type="break" />
+      <element id="p2_e90" type="text">Einige von i</element>
+      <element id="p2_e30" type="input" is_exercise="1" default_score="1">hn</element>
+      <element id="p2_e31" type="text">en si</element>
+      <element id="p2_e85" type="input" is_exercise="1" default_score="1">nd</element>
+      <element id="p2_e86" type="text">ha</element>
+      <element id="p2_e83" type="input" is_exercise="1" default_score="1">rml</element>
+      <element id="p2_e33" type="text">ose Inse</element>
+      <element id="p2_e34" type="input" is_exercise="1" default_score="1">kt</element>
+      <element id="p2_e35" type="text">en</element>
+      <element id="p2_e36" type="input" is_exercise="1" default_score="1">fr</element>
+      <element id="p2_e37" type="text">esser.</element>
+      <element id="p2_e92" type="break" />
+      <element id="p2_e93" type="text">Andere zä</element>
+      <element id="p2_e84" type="input" is_exercise="1" default_score="1">hl</element>
+      <element id="p2_e39" type="text">en zu</element>
+      <element id="p2_e41" type="text">den sogena</element>
+      <element id="p2_e44" type="input" is_exercise="1" default_score="1">nnt</element>
+      <element id="p2_e45" type="text">en</element>
+      <element id="p2_e47" type="text">Gi</element>
+      <element id="p2_e48" type="input" is_exercise="1" default_score="1">ftschl</element>
+      <element id="p2_e49" type="text">angen und</element>
+      <element id="p2_e51" type="text">kö</element>
+      <element id="p2_e55" type="input" is_exercise="1" default_score="1">nn</element>
+      <element id="p2_e56" type="text">en auch für den</element>
+      <element id="p2_e58" type="text">Me</element>
+      <element id="p2_e59" type="input" is_exercise="1" default_score="1">nsch</element>
+      <element id="p2_e60" type="text">en gefä</element>
+      <element id="p2_e61" type="input" is_exercise="1" default_score="1">hrl</element>
+      <element id="p2_e62" type="text">ich we</element>
+      <element id="p2_e65" type="input" is_exercise="1" default_score="1">rd</element>
+      <element id="p2_e64" type="text">en.</element>
+    </block>
+    <block id="p2_b9" type="feedback">
+      <element id="p2_e95" type="feedback_score">0</element>
+      <element id="p2_e96" type="text">Probier es gleich noch einmal.</element>
+      <element id="p2_e97" type="feedback_score">3</element>
+      <element id="p2_e98" type="text">Ein Anfang ist gemacht. Weiter so!</element>
+      <element id="p2_e99" type="feedback_score">7</element>
+      <element id="p2_e100" type="text">Leider noch zu viele Fehler.</element>
+      <element id="p2_e101" type="feedback_score">11</element>
+      <element id="p2_e102" type="text">Weiter so!</element>
+      <element id="p2_e103" type="feedback_score">15</element>
+      <element id="p2_e104" type="text">Schon ziemlich gut!</element>
+      <element id="p2_e105" type="feedback_score">18</element>
+      <element id="p2_e106" type="text">Super! Alles richtig.</element>
+    </block>
+  </contents>
+</page>

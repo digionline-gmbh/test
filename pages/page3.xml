@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page id="p4">
+  <contents>
+    <block id="p4_b1" type="meta" title="Doppelkonsonanten" link_next_page="after_attempt" overview="score score_max" attempts="unlimited" feedback="1" />
+    <block id="p4_b2" type="heading1">
+      <element id="p4_e1" type="line">Schärfung: Doppelkonsonanten</element>
+    </block>
+    <block id="p4_b3" type="heading2">
+      <element id="p4_e2" type="line">Kurz gesprochene Vokale</element>
+    </block>
+    <block id="p4_b4" type="image" image_idref="r16" align="left" />
+    <block id="p4_b5" type="paragraph">
+      <element id="p4_e4" type="text">Vokale können kurz oder lang ausgesprochen werden. Kurz gesprochene Vokale erkennt man unter anderem daran, dass in einem Wort auf einen einfachen Vokal ein Doppelkonsonant folgt. Man nennt das auch &lt;i&gt;Schärfung&lt;/i&gt; des Vokals. Es gibt hierbei allerdings auch Ausnahmen bei denen auf einen kurz gesprochenen Vokal ein einfacher Konsonant folgt.
+
+
+&lt;b&gt;Beispiele:&lt;/b&gt;
+Donner, Ball, Komma</element>
+    </block>
+    <block id="p4_b6" type="heading2">
+      <element id="p4_e5" type="line">Übung zu Doppelkonsonanten</element>
+    </block>
+    <block id="p4_b7" type="paragraph" score_max="12">
+      <element id="p4_e7" type="icon" image_idref="r7" />
+      <element id="p4_e8" type="text">&lt;b&gt;Aufgabe:&lt;/b&gt; Entscheide, ob jeweils ein einfacher Kosonant oder ein Doppelkonsonant eingesetzt werden muss.</element>
+      <element id="p4_e9" type="break" />
+      <element id="p4_e22" type="break" />
+      <element id="p4_e58" type="text">A</element>
+      <element id="p4_e59" type="select" options="---|f|ff" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">ff</element>
+      <element id="p4_e60" type="text">e    -</element>
+      <element id="p4_e10" type="text">Ilti</element>
+      <element id="p4_e11" type="select" options="---|s|ss" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">ss</element>
+      <element id="p4_e12" type="text">e    -</element>
+      <element id="p4_e13" type="text">Spe</element>
+      <element id="p4_e14" type="select" options="---|r|rr" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">r</element>
+      <element id="p4_e15" type="text">ling    -</element>
+      <element id="p4_e18" type="text">Kra</element>
+      <element id="p4_e19" type="select" options="---|b|bb" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">bb</element>
+      <element id="p4_e20" type="text">e    -</element>
+      <element id="p4_e23" type="text">Pa</element>
+      <element id="p4_e24" type="select" options="---|n|nn" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">n</element>
+      <element id="p4_e25" type="text">da</element>
+      <element id="p4_e30" type="break" />
+      <element id="p4_e61" type="break" />
+      <element id="p4_e31" type="text">Na</element>
+      <element id="p4_e32" type="select" options="---|s|ss" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">s</element>
+      <element id="p4_e33" type="text">horn    -</element>
+      <element id="p4_e35" type="text">Kro</element>
+      <element id="p4_e36" type="select" options="---|k|ck" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">k</element>
+      <element id="p4_e37" type="text">odil    -</element>
+      <element id="p4_e39" type="text">Gira</element>
+      <element id="p4_e40" type="select" options="---|f|ff" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">ff</element>
+      <element id="p4_e41" type="text">e    -</element>
+      <element id="p4_e43" type="text">Re</element>
+      <element id="p4_e44" type="select" options="---|n|nn" feedback_right="Prima! Stimmt." feedback_wrong="Leider nicht richtig." is_exercise="1" default_score="1">n</element>
+      <element id="p4_e45" type="text">tier</element>
+    </block>
+  </contents>
+</page>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page id="p6">
+  <contents>
+    <block id="p6_b1" type="meta" title="Schärfung: ck und tz" link_next_page="after_attempt" overview="score score_max" attempts="unlimited" feedback="1" />
+    <block id="p6_b2" type="heading1">
+      <element id="p6_e1" type="line">Schärfung: ck und tz</element>
+    </block>
+    <block id="p6_b3" type="heading2">
+      <element id="p6_e2" type="line">Ausnahmen bei Doppelkonsonanten</element>
+    </block>
+    <block id="p6_b5" type="image" image_idref="r17" align="left" />
+    <block id="p6_b4" type="paragraph">
+      <element id="p6_e3" type="text">Bei der Konsonantenverdopplung gibt es zwei Ausnahmen: &lt;b&gt;ck und tz&lt;/b&gt;. Statt kk schreibt man &lt;b&gt;ck&lt;/b&gt; und statt zz schreibt man &lt;b&gt;tz&lt;/b&gt;. Allerdings gibt es auch einige Fremdwörter, bei denen diese Regel nicht zutrifft, beispielweise &lt;i&gt;Pizza&lt;/i&gt; oder &lt;i&gt;Skizze&lt;/i&gt;.
+&lt;b&gt;Beispiele:&lt;/b&gt;
+&lt;b&gt;ck:&lt;/b&gt; lecker, dick, Bäcker ...
+&lt;b&gt;tz:&lt;/b&gt; Mütze, Witz, schwitzen ...</element>
+    </block>
+    <block id="p6_b6" type="heading2">
+      <element id="p6_e5" type="line">Übung zu Wörten mit ck und tz</element>
+    </block>
+    <block id="p6_b7" type="paragraph">
+      <element id="p6_e7" type="icon" image_idref="r9" />
+      <element id="p6_e8" type="text">&lt;b&gt;Aufgabe:&lt;/b&gt; Löse das Buchstabenrätsel und ziehe den richtigen Begriff jeweils in die Lücke daneben.</element>
+    </block>
+    <block id="p6_b8" type="sliders">
+      <element id="p6_e9" type="slider">Wildkatze</element>
+      <element id="p6_e10" type="slider">Schnecke</element>
+      <element id="p6_e11" type="slider">Eichkätzchen</element>
+      <element id="p6_e12" type="slider">Spitzmaus</element>
+      <element id="p6_e13" type="slider">Mücke</element>
+      <element id="p6_e14" type="slider">Spatz</element>
+      <element id="p6_e16" type="slider">Kuckuck</element>
+      <element id="p6_e17" type="slider">Katzenhai</element>
+      <element id="p6_e18" type="slider">Heuschrecke</element>
+    </block>
+    <block id="p6_b9" type="paragraph" score_max="10">
+      <element id="p6_e20" type="text">SUAZTSIPM =</element>
+      <element id="p6_e21" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Spitzmaus</element>
+      <element id="p6_e60" type="text">-</element>
+      <element id="p6_e22" type="text">HEECSNKC =</element>
+      <element id="p6_e23" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Schnecke</element>
+      <element id="p6_e61" type="text">-</element>
+      <element id="p6_e26" type="text">KMCEÜ =</element>
+      <element id="p6_e27" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Mücke</element>
+      <element id="p6_e51" type="break" />
+      <element id="p6_e28" type="break" />
+      <element id="p6_e29" type="text">TZINHKEAA =</element>
+      <element id="p6_e30" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Katzenhai</element>
+      <element id="p6_e62" type="text">-</element>
+      <element id="p6_e32" type="text">PTZSA =</element>
+      <element id="p6_e33" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Spatz</element>
+      <element id="p6_e63" type="text">-</element>
+      <element id="p6_e35" type="text">DLTWZALIKE =</element>
+      <element id="p6_e36" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Wildkatze</element>
+      <element id="p6_e54" type="break" />
+      <element id="p6_e38" type="break" />
+      <element id="p6_e37" type="text">RSHUKEECREH =</element>
+      <element id="p6_e39" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Heuschrecke</element>
+      <element id="p6_e64" type="text">-</element>
+      <element id="p6_e44" type="text">UCCKKKU =</element>
+      <element id="p6_e45" type="slider_target" feedback_right="Richtig. Gut gelöst!" feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Kuckuck</element>
+      <element id="p6_e65" type="text">-</element>
+      <element id="p6_e47" type="text">IHÄCTEKCZNHE =</element>
+      <element id="p6_e48" type="slider_target" feedback_right="Richtig. Gut gelöst!." feedback_wrong="Stimmt leider nicht." is_exercise="1" default_score="1">Eichkätzchen</element>
+    </block>
+  </contents>
+</page>
