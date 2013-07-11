@@ -2,7 +2,7 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "de.digionline.testcourselet"
-        versionCode="10" 
+        versionCode="10"
         version   = "1.0.0">
 
     <!-- versionCode is optional and Android only -->
@@ -18,5 +18,7 @@
     </author>
 
     <preference name="fullscreen" value="true" />
+
+    <feature name="http://api.phonegap.com/1.0/network"/>
 
 </widget>
